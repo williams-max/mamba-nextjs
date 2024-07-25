@@ -26,7 +26,7 @@ function PortfolioDetails() {
                 <div className="container">
 
                     <div className="logo float-left">
-                        <h1 className="text-light"><a href="index.html"><span>Mamba</span></a></h1>
+                        <h1 className="text-light"><a href="index.html"><span>Example</span></a></h1>
                         {/*<!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" className="img-fluid"></a>-->*/}
                     </div>
@@ -122,7 +122,7 @@ function PortfolioDetails() {
                         <div className="row">
 
                             <div className="col-lg-3 col-md-6 footer-info">
-                                <h3>Mamba</h3>
+                                <h3>Example</h3>
                                 <p>
                                     A108 Adam Street <br />
                                     NY 535022, USA<br /><br />
@@ -175,13 +175,13 @@ function PortfolioDetails() {
 
                 <div className="container">
                     <div className="copyright">
-                        &copy; Copyright <strong><span>Mamba</span></strong>. All Rights Reserved
+                        &copy; Copyright <strong><span>Example</span></strong>. All Rights Reserved
                     </div>
                     <div className="credits">
                         {/*  <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
-    <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/mamba-one-page-bootstrap-template-free/ -->*/}
+    <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/Example-one-page-bootstrap-template-free/ -->*/}
                         Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
                     </div>
                 </div>

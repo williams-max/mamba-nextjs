@@ -9,7 +9,7 @@ class MyDocument extends Document {
                     <meta charset="utf-8" />
                     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
-                    <title>Mamba Bootstrap Template - Index</title>
+                    <title>Example Page</title>
                     <meta content="" name="descriptison" />
                     <meta content="" name="keywords" />
 
@@ -33,8 +33,8 @@ class MyDocument extends Document {
                     <link href="assets/css/style.css" rel="stylesheet" />
 
                     {/* <!-- =======================================================
-                                      * Template Name: Mamba - v2.4.0
-                                      * Template URL: https://bootstrapmade.com/mamba-one-page-bootstrap-template-free/
+                                      * Template Name: Example - v2.4.0
+                                      * Template URL: https://bootstrapmade.com/Example-one-page-bootstrap-template-free/
                                       * Author: BootstrapMade.com
                                       * License: https://bootstrapmade.com/license/
   ======================================================== -->*/}

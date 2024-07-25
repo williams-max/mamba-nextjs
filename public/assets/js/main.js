@@ -1,6 +1,6 @@
 /**
-* Template Name: Mamba - v2.4.0
-* Template URL: https://bootstrapmade.com/mamba-one-page-bootstrap-template-free/
+* Template Name: Example - v2.4.0
+* Template URL: https://bootstrapmade.com/Example-one-page-bootstrap-template-free/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
